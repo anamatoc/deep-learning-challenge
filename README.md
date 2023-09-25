@@ -6,7 +6,7 @@ The CSV containing more than 34,000 organizations that have received funding fro
 
 ## Results:
 
-# The model uses the feature: 
+### The model uses the feature: 
 'IS_SUCCESSFUL'
 
 # Feature variable(s) for the model: 
